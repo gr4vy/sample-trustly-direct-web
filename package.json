@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@gr4vy/node": "^1.1.0",
-    "next": "13.2.4",
+    "next": "14.2.25",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "snakecase-keys": "^5.4.5"
