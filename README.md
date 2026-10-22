@@ -8,7 +8,7 @@ To run this sample please perform the following steps.
 
 - Create an API key in your Gr4vy dashboard and save it as `./private_key.pem`
 - Change any of the config values in `pages/index.js` to define your `id` and `server`
-- Install Node `v18` or above as well as the dependencies for this project
+- Install Node `v20.9` or above as well as the dependencies for this project
   - Run `npm install`
 - Start the server with `npm run dev`
 
